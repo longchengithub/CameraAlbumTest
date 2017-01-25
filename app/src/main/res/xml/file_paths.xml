@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--
+    其中name可以是随便填写的
+       path如果为空 表示所有的sd路径  也可以在里面填写绝对路径
+     -->
+    <root-path
+        name="my_images"
+        path=""/>
+</paths>
